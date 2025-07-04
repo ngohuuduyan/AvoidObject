@@ -1,0 +1,90 @@
+# ========== UNITY PROJECT ==========
+
+# Ignore Unity-generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+
+# ========== CODE/IDE SETTINGS ==========
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+.vsconfig
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# ========== OS/EDITOR ARTIFACTS ==========
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Crash logs / Stack traces
+sysinfo.txt
+error.log
+*.stacktrace
+
+# ========== LARGE MEDIA ASSETS ==========
+
+# Common heavy texture/image formats
+*.tga
+*.psd
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.exr
+*.hdr
+
+# Video/audio files
+*.mp4
+*.mov
+*.avi
+*.wav
+*.mp3
+*.ogg
+
+# Unity packages
+*.unitypackage
+
+# ========== BACKUPS / TEMP FILES ==========
+
+# Backups and temporary files
+*.tmp
+*.bak
+*.swp
+*.lock
+
+# ========== EXPORT / BUILD ==========
+
+# Exported builds
+Build/
+ExportedProject/
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+
+# ========== GIT ==========
+
+# Git LFS (if needed)
+.gitattributes
